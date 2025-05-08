@@ -32,5 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 
-.vaadin-designer
-.designer
+# Node/Vaadin frontend
+/frontend/node_modules/
+/node_modules/
+/frontend/generated/
+/frontend/build/
+/frontend/.vaadin/
